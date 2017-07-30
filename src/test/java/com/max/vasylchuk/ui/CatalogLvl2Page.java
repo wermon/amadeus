@@ -1,4 +1,4 @@
-package com.max.vasylchuk;
+package com.max.vasylchuk.ui;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

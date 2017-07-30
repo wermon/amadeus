@@ -1,4 +1,4 @@
-package com.max.vasylchuk.WebData;
+package com.max.vasylchuk.webdata;
 
 public class CatalogLvl3PageGoodsData {
     private String title;
@@ -16,4 +16,5 @@ public class CatalogLvl3PageGoodsData {
     public String getPrice() {
         return price;
     }
+
 }
